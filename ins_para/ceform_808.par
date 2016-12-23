@@ -1,0 +1,17 @@
+Parameters for ceform Hanzhou station
+0.00 30.2333  120.171 41. : Standard_longitude Latitude Longitude Height(mASL)
+6 : NW in almucantar file
+0.440 0.500 0.670 0.870 1.020 1.640 : Nominal wavelengths (microns)
+4     5     3     2     1     17    : Filter number
+1     0     1     1     1     0     : Flags
+1 :MODE CEFORM (0: calibration, 1:elaboration)
+808 :SERIALNUMBER for instrumental data
+2 : Radiance calibration source (0:both, 1:aur, 2:sky)
+Direct calibration (DIGITAL COUNTS) [yymmdd dir1 ... dirn]:
+2
+100619 1200 6236 13374 16818 16315 8547 17955
+130914 1200 6100 13049 16827 16127 8358 18363 
+Radiance calibration (W/M2NMSR) [yymmdd hhmm aur1 ... aurn sky1 ... skyn]:
+2
+091219 1121 7.54585E-04 3.76247E-04 2.27735E-04 1.49583E-04 2.11714E-04 3.31369E-05 1.88407E-04 9.40146E-05 5.69338E-05 3.73957E-05 5.28998E-05 8.28423E-06
+130915 1120 7.42179E-04 3.74365E-04 2.38741E-04 1.54690E-04 2.06653E-04 3.25448E-05 1.85838E-04 9.35665E-05 5.96500E-05 3.86501E-05 5.16341E-05 8.12292E-06
