@@ -1,0 +1,15 @@
+Parameters for ceform PKU station
+0.00 39.992 116.3102 100. : Standard_longitude Latitude Longitude Height(mASL)
+6 : NW in almucantar file
+0.440 0.500 0.670 0.870 1.020 1.640 : Nominal wavelengths (microns)
+4     5     3     2     1     17    : Filter number
+1     0     1     1     1     0     : Flags
+1 :MODE CEFORM (0: calibration, 1:elaboration)
+1301 :SERIALNUMBER for instrumental data
+2 : Radiance calibration source (0:both, 1:aur, 2:sky)
+Direct calibration (DIGITAL COUNTS) [yymmdd dir1 ... dirn]:
+1
+170817 1200 741419.969099802 1019492.51452385 1099298.42799274 827199.479314196 606192.88951496 1040910.13048563
+Radiance calibration (W/M2NMSR) [yymmdd hhmm aur1 ... aurn sky1 ... skyn]:
+1
+170817 1200 5.32836E-05 3.89557E-05 2.81700E-05 2.33878E-05 2.25059E-05 3.59372E-06 1.66666E-06 1.21796E-06 8.80634E-07 7.31149E-07 7.03591E-07 1.12259E-07
