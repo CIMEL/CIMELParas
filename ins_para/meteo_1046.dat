@@ -1,0 +1,7 @@
+- meteorological data -
+"SP01BUR"  : site code [40chr]
+"BJ1046 (China)" : site/country name [20chr]
+0.0 : longitude[deg] for time standard (0.0 for GMT)
+116.3205 39.9474 106.00 : long[deg] lat[deg] alt[m]
+1 : NMET(meteo data) / YYYY MM DD HR(LST) PRS[atm] O3[cm,STP] NO2[cm,STP] H2O[cm,STP] TP[Celsius]
+2015 12 31 13.00 0.8 0.260 -100. -100. -100.

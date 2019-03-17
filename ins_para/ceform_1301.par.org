@@ -1,15 +1,15 @@
-Parameters for ceform Shijiazh station
-0.00 38.04 114.21 103.6 : Standard_longitude Latitude Longitude Height(mASL)
+Parameters for ceform PKU station
+0.00 39.992 116.3102 100. : Standard_longitude Latitude Longitude Height(mASL)
 6 : NW in almucantar file
 0.440 0.500 0.670 0.870 1.020 1.640 : Nominal wavelengths (microns)
 4     5     3     2     1     17    : Filter number
 1     0     1     1     1     0     : Flags
 1 :MODE CEFORM (0: calibration, 1:elaboration)
-1226 :SERIALNUMBER for instrumental data
+1301 :SERIALNUMBER for instrumental data
 2 : Radiance calibration source (0:both, 1:aur, 2:sky)
 Direct calibration (DIGITAL COUNTS) [yymmdd dir1 ... dirn]:
 1
-171211 1200 1.7687E+04 2.2523E+04 2.3779E+04 1.8767E+04 1.2770E+04 2.4131E+04
+170817 1200 741419.969099802 1019492.51452385 1099298.42799274 827199.479314196 606192.88951496 1040910.13048563
 Radiance calibration (W/M2NMSR) [yymmdd hhmm aur1 ... aurn sky1 ... skyn]:
 1
-171211 1121 2.7523E-04 2.2250E-04 1.6307E-04 1.2979E-04 1.3624E-04 1.9392E-05 6.8916E-05 5.5827E-05 4.0911E-05 3.2565E-05 3.4188E-05 4.8640E-06
+170817 1200 5.32836E-05 3.89557E-05 2.81700E-05 2.33878E-05 2.25059E-05 3.59372E-06 1.66666E-06 1.21796E-06 8.80634E-07 7.31149E-07 7.03591E-07 1.12259E-07

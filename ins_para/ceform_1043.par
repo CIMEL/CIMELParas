@@ -1,0 +1,16 @@
+Parameters for ceform CAMS station
+0.00 39.933 116.3167 106. : Standard_longitude Latitude Longitude Height(mASL)
+6 : NW in almucantar file
+0.380 0.440 0.500 0.670 0.870 1.020 1.640 : Nominal wavelengths (microns)
+8     4     5     3     2     1     17    : Filter number
+0     1     0     1     1     1     0     : Flags
+1 :MODE CEFORM (0: calibration, 1:elaboration)
+1046 :SERIALNUMBER for instrumental data
+2 : Radiance calibration source (0:both, 1:aur, 2:sky)
+Direct calibration (DIGITAL COUNTS) [yymmdd dir1 ... dirn]:
+1
+170817 1200 130862 774880 1045859 1142586 900432 582703 1138234
+
+Radiance calibration (W/M2NMSR) [yymmdd hhmm aur1 ... aurn sky1 ... skyn]:
+1
+170817 1200 1.75839E-04 4.9175E-05 3.8574E-05 2.7200E-05 2.1711E-05 2.5815E-05 4.0998E-06 5.54317E-06 1.5384E-06 1.2066E-06 8.5078E-07 6.7869E-07 8.0696E-07 1.2816E-07
