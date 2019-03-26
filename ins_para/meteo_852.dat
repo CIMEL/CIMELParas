@@ -1,0 +1,8 @@
+- meteorological data -
+"SP01BUR"  : site code [40chr]
+"Nanjing (China)" : site/country name [20chr]
+0.0 : longitude[deg] for time standard (0.0 for GMT)
+118.771 32.500 99.0 : long[deg] lat[deg] alt[m]
+2 : NMET(meteo data) / YYYY MM DD HR(LST) PRS[atm] O3[cm,STP] NO2[cm,STP] H2O[cm,STP] TP[Celsius]
+2010 01  1 13.00 1.0 0.3374 -100. -100. -100.
+2012 12 31 13.00 1.0 0.3374 -100. -100. -100.

@@ -1,0 +1,15 @@
+Parameters for ceform Nanjing-852 station
+0.00 32.500 118.771 99. : Standard_longitude Latitude Longitude Height(mASL)
+6 : NW in almucantar file
+0.440 0.500 0.675 0.870 1.020 1.640 : Nominal wavelengths (microns)
+4     5     3     2     1     17    : Filter number
+1     0     1     1     1     0     : Flags
+1 :MODE CEFORM (0: calibration, 1:elaboration)
+852 :SERIALNUMBER for instrumental data
+2 : Radiance calibration source (0:both, 1:aur, 2:sky)
+Direct calibration (DIGITAL COUNTS) [yymmdd dir1 ... dirn]:
+1
+111111 1200 9.68618E+03 1.42029E+04 1.72350E+04 1.64806E+04 8.43970E+03 1.98676E+04
+Radiance calibration (W/M2NMSR) [yymmdd hhmm aur1 ... aurn sky1 ... skyn]:
+1
+111111 1121 4.7382E-04 3.4969E-04 2.2209E-04 1.4571E-04 2.1884E-04 2.9415E-05 1.1886E-04 8.7822E-05 5.5778E-05 3.6599E-05 5.4962E-05 7.3886E-06
